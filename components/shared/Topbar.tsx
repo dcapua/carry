@@ -30,6 +30,7 @@ const Topbar = () => {
           appearance={{
             elements: {
               organizationSwitcherTrigger: "py-2 px-4",
+              
             },
           }}
         />

@@ -17,7 +17,7 @@ export default function RootLayout({
   return (
     <ClerkProvider>
       <html lang="en">
-        <body>
+        <body className='bg-dark-1'>
           <header>
             <SignedOut>
               <SignInButton />
